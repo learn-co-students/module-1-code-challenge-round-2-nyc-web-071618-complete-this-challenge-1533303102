@@ -55,7 +55,7 @@ _A `QueueItem` object represents that an individual user has added a particular 
 + `Movie#queue_items`
   + returns an array of all the `QueueItem` instances that contain this movie
 + `Movie#viewers`
-  + returns an array of all of the `Viewer`s with this `Movie` instance in their queue
+  + returns an array of all of the `Viewer`s queue
 + `Movie#average_rating`
   + returns the average of all ratings for this instance of `Movie`
 + `Movie.highest_rated`
